@@ -1,0 +1,6 @@
+#
+#searchedCity>caseSensitive expected value>caseINSensitive expected value
+aydın>nil>Aydın
+maNisa>nil>Manisa
+İstanbul>İstanbul>İstanbul
+diyabakır>nil>Diyarbakır
